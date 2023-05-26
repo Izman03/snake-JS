@@ -1,0 +1,21 @@
+h1 {
+  font-size: 50px;
+  font-family: "Comic Sans MS";
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+canvas {
+  border: solid 5px greenyellow;
+  outline: solid 2px black;
+}
+
+html {
+  background-color: bisque;
+}
