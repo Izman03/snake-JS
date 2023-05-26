@@ -8,7 +8,7 @@ class SnakePart {
     }
 }
 
-let speed = 7; // Controls the snake's speed within the game
+let speed = 10; // Controls the snake's speed within the game
 
 let tileCount = 20; // Number of tiles in the game grid
 let titleSize = canvas.width / tileCount - 2; // Size of each tile
